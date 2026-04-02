@@ -43,7 +43,7 @@ A VGA display provides a dynamic UI with animated vinyl discs, live switch/LED s
 ## ****🧩 Block Diagram****
 
 <img width="1215" height="981" alt="Screenshot 2026-04-02 134516" src="https://github.com/user-attachments/assets/7a035681-33e4-4380-aad7-dd98de1788c6" />
----
+
 
 
 
